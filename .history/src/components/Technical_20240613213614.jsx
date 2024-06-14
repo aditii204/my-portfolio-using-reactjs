@@ -48,8 +48,18 @@ const Technical = () => {
             title: 'Web Development Skills',
             style: 'shadow-white',
         },
-        
-        
+        {
+            id:6,
+            src:IoBuild,
+            title: 'Web Development Skills',
+            style: 'shadow-white',
+        },
+        {
+            id:6,
+            src:IoBuild,
+            title: 'Web Development Skills',
+            style: 'shadow-white',
+        },
         
     ]
   return (

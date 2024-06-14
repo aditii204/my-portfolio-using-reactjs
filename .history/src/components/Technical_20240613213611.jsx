@@ -50,7 +50,6 @@ const Technical = () => {
         },
         
         
-        
     ]
   return (
     <div name="technical" className="bg-gradient-to-b from-gray-800 to-black w-full h-screen">
