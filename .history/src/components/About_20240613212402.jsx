@@ -7,9 +7,9 @@ const About = () => {
             <div className="pb-8">
                 <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
             </div>
-            <p className="text-xl mt-20"> Certified with a professional certificate for an IT Automation using python the course was designed by Google.</p>
+            <p className="text-xl mt-20"> Certified with a professional certificate for an IT Automation using python the coourse was designed by Google</p>
             <br/>
-            <p className="text-xl ">Participated in Hackathon 2021 and I was appreciated as a best presenter.</p>
+            <p className="text-xl "></p>
         
         
         </div>

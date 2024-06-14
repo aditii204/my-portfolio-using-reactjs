@@ -16,7 +16,7 @@ function App() {
       <Contact/> 
        
       
-      
+      <About/>
       <SocialLinks/>
     </div>
   );

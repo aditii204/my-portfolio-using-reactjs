@@ -4,7 +4,7 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import {IoBuild}  from "react-icons/io5";
-
+i
 
 import tailwind from "../assets/tailwind.png";
 

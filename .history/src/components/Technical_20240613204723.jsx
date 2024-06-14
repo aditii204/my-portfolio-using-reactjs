@@ -3,9 +3,9 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import {IoBuild}  from "react-icons/io5";
-
-
+import { IoBuild } from "react-icons/io5";
+import graphql from "../assets/graphql.png";
+import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 
 const Technical = () => {
@@ -44,11 +44,22 @@ const Technical = () => {
         },
         {
             id:6,
-            src:IoBuild,
-            title: 'Web Development Skills',
+            src:nextjs,
+            title: 'Nextjs',
             style: 'shadow-white',
         },
-        
+        {
+            id:7,
+            src:graphql,
+            title: 'GraphQL',
+            style: 'shadow-pink-500',
+        },
+        {
+            id:8,
+            src:github,
+            title: 'GitHub',
+            style: 'shadow-gray-500',
+        },
     ]
   return (
     <div name="technical" className="bg-gradient-to-b from-gray-800 to-black w-full h-screen">
