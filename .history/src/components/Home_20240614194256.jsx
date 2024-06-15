@@ -14,8 +14,8 @@ const Home = () => {
                 I am a Front End Developer
             </h2>
             <p className="text-gray-500 py-4 max-w-md"> 
-                I am a fresher with skills like: Java , Javascript , HTML , CSS , React JS , Tailwind CSS , Object Oriented Programming .
-                Exploring for a job Opportunities.
+                I am a fresher with skills like: java , javascript , HTML , CSS , React JS ,Tailwind CSS exploring for a job role
+                as a front end developer..
             </p>
             <div>
                 <Link to="technical" smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">

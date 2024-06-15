@@ -11,11 +11,11 @@ const Home = () => {
        <div  className="max-w-screen-lg mx-auto flex flex-col item-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
             <h2 className="*text-4xl sm:text-7xl font-bold text-white">
-                I am a Front End Developer
+                I am a 
             </h2>
             <p className="text-gray-500 py-4 max-w-md"> 
-                I am a fresher with skills like: Java , Javascript , HTML , CSS , React JS , Tailwind CSS , Object Oriented Programming .
-                Exploring for a job Opportunities.
+                I am a fresher with exploring for a job role
+                as a front end developer..
             </p>
             <div>
                 <Link to="technical" smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">

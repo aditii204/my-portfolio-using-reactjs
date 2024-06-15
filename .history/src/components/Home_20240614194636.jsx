@@ -15,6 +15,7 @@ const Home = () => {
             </h2>
             <p className="text-gray-500 py-4 max-w-md"> 
                 I am a fresher with skills like: Java , Javascript , HTML , CSS , React JS , Tailwind CSS , Object Oriented Programming .
+                Completed my Graduation in May 2024
                 Exploring for a job Opportunities.
             </p>
             <div>
